@@ -178,20 +178,7 @@ A full-stack recruitment/job platform connecting candidates and recruiters.
 
 🚀 **[Live Demo](https://talent-flow-xi-seven.vercel.app/)**
 
----
 
-#  GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonaliPriyadarsani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaliPriyadarsani&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SonaliPriyadarsani&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 #  Currently Learning
 
